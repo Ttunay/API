@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "file_printer.h"
+#include "../include/file_printer.h"
 
 int main()
 {

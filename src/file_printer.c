@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
-#include "file_printer.h"
+#include "../include/file_printer.h"
 
 
 static int getFileLength(FILE* fp)
